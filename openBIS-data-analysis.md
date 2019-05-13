@@ -1,4 +1,4 @@
-# Analysing data stored in openBIS with Jupyter Notebooks or Matlab
+# Analysing data stored in openBIS with Jupyter Notebooks, Python or MATLAB
 
 ## Jupyter notebooks
 Jupyter notebooks provide an interactive, web-based computing environment that combine code, results and documentation in a single document. Jupyter notebooks support a lot of different programming languages. For more details and installation instructions, see https://jupyter.org/
@@ -8,5 +8,10 @@ Once you have installed Jupyter on your computer / analysis server, you can inst
 
 An example notebook that demonstrates the analysis of data stored in openBIS is provided in this repository: [Jupyter_Demo_Notebook.ipynb](Jupyter_Demo_Notebook.ipynb). For a static version, download [Jupyter_Demo_Notebook.html](Jupyter_Demo_Notebook.html).
 
-## Matlab
+## Python
+Python is an interpreted, high-level, general-purpose programming language that is becoming increasingly popular in the scienctific community. pyBIS is a Python module for interacting with openBIS. For details / documentation, see https://sissource.ethz.ch/sispub/openbis/tree/master/pybis 
+
+## MATLAB
+MATLAB is a numerical computing environment and programming language developed by MathWorks. For details see https://ch.mathworks.com/products/matlab.html
+
 
