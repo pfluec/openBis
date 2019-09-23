@@ -1,0 +1,1 @@
+This folder contains files used during the openBIS training.
